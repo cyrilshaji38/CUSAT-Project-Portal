@@ -9,3 +9,6 @@ Mentor Dashboard- ongoingmen.html
 https://docs.google.com/presentation/d/1OSGxl_htlJgi3hA1ioD26H4pqn4oUoi4fctUA-JD0UE/edit?usp=sharing  
 ## Pitch and Demo Video 
 https://drive.google.com/file/d/10OOUCwVvJW6dBzxOoyl3l48bOZpipffA/view?usp=sharing
+
+Thankyou to Pehia Foundation for featuring our project on your article!
+https://pehiaorg.medium.com/12-cool-projects-you-should-not-miss-eb9a289b457a
